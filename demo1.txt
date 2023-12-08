@@ -1,1 +1,1 @@
-This is demo1 file as well as QA, Dev and Feature
+This is demo1 file for QA, Dev and Feature
